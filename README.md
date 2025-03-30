@@ -1,6 +1,6 @@
 # Conformal Matrix Calculator (Z3) - R Shiny App
 
-**Link to Published App: [Conformal Matrix]()**
+**Link to Published App: [Conformal Matrix](https://apiyarali.shinyapps.io/ConformalMatrices/)**
 
 ## Overview
 This R Shiny application allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on 2×2 conformal matrices with entries from the finite field Z₃ (integers modulo 3). The app provides an intuitive interface for matrix calculations and visualizes results dynamically.
